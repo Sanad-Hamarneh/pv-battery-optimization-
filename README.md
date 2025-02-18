@@ -24,8 +24,3 @@ This project focuses on optimizing the **sizing of PV panels and battery storage
 - Optimal **PV and battery sizing** based on location & load  
 - **Minimized cost** while ensuring **energy reliability**  
 - Insights on **renewable energy integration** for sustainability  
-
-## 🚀 How to Run  
-1. Install dependencies:  
-   ```bash
-   pip install cplex numpy pandas matplotlib
